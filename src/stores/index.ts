@@ -41,6 +41,7 @@ export const useVKilomeStore = defineStore('vehicule-eco', () => {
 
     {tag: 'Annee', note: 1, name: '1960-1970', min: 1960, max: 1970},
     {tag: 'Annee', note: 2, name: '1970-1980', min: 1970, max: 1980},
+    {tag: 'Annee', note: 3, name: '1980-1990', min: 1980, max: 1990},
     {tag: 'Annee', note: 4, name: '1990-2000', min: 1990, max: 2000},
     {tag: 'Annee', note: 5, name: '2000-2010', min: 2000, max: 2010},
     {tag: 'Annee', note: 7, name: '2010-2999', min: 2010, max: Infinity},
